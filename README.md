@@ -1,0 +1,1 @@
+# Algoritmo74_CalculoSalarioMinimo
